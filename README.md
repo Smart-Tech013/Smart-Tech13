@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering, systems engineering, cyber security 
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at festusbaylin01@gmail.com
+- 📫 reach me @ festusbaylin01@gmail.com
 
 <!---
 Smart-Tech13/Smart-Tech13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
