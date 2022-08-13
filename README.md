@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Smart-Tech13
+- 👋 Hi, I’m Festus
 - 👀 I’m interested in software engineering, systems engineering, cyber security 
-- 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning software engineering at ALX
+- 💞️ I’m looking to collaborate on open source projects 
 - 📫 reach me @ festusbaylin01@gmail.com
 
 <!---
